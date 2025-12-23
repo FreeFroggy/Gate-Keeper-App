@@ -1,0 +1,14 @@
+# 🌍 Gatekeeper Mission Statement
+
+Gatekeeper exists to protect people—everywhere—from the hidden dangers of malicious code.
+
+In a world where digital threats are growing and trust is fragile, Gatekeeper empowers users with a simple, secure, and transparent way to scan, store, and manage Python scripts. Whether you're a student, developer, teacher, or everyday user, Gatekeeper gives you the tools to stay safe.
+
+Our mission is to make cybersecurity accessible to all:
+- 🛡️ By detecting threats before they cause harm
+- 🔐 By isolating and securing code in a protected vault
+- 🌐 By offering a free, open-source solution for every nation and every user
+
+Gatekeeper is more than a program. It’s a promise: that safety should never be a privilege—it should be a right.
+
+We build with care. We share with purpose. We protect with pride.
