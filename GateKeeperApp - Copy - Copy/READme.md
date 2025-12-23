@@ -1,5 +1,15 @@
 # 🛡️ Gatekeeper Vault
 
+![Gatekeeper Vault Banner](gatekeeper-banner.png)
+
+# 🛡️ Gatekeeper Vault
+
+![Gatekeeper Logo](gatekeeper-logo.png)
+
+**Gatekeeper** is a secure, open-source Python script scanner and vault system designed to protect users from malicious code. Built with care and purpose, Gatekeeper empowers anyone—developers, educators, students, and everyday users—to safely scan, isolate, and store Python scripts in a secure, user-friendly environment.
+
+> *Because everyone deserves to feel safe online.*
+
 Gatekeeper is a secure, user-friendly Python script scanner and vault system designed to protect users from malicious code. Built with care and purpose, it empowers users to upload, scan, and safely store Python scripts in an isolated vault.
 
 ## 🚀 Features
@@ -24,4 +34,5 @@ Gatekeeper is a secure, user-friendly Python script scanner and vault system des
 Run the included test script:
 
 ```bash
+
 python test_gatekeeper.py
